@@ -4,5 +4,6 @@
     <string name = "str_minus">빼기</string>
     <string name = "str_mul">곱하기</string>
     <string name = "str_sub">나누기</string>
+    <string name = "str_result">결과창</string>>
 
 </resources>
